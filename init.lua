@@ -1,5 +1,5 @@
 vim.opt.tabstop = 4
-vim.opt.colorcolumn = '80'
+vim.opt.colorcolumn = '80,99'
 vim.opt.relativenumber = true
 
 -- Set <space> as the leader key
